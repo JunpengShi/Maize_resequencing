@@ -8,3 +8,5 @@
 2. GWAS_and_Heritability: The pipeline for GWAS and SNP based heritability estimation
 
 3. selective_sweeps: The pipeline for the identification of selective sweeps, LD calculation and the estimation of genetic diversity
+
+4. Nongenic_sweeps: the pipeline for the macs peaks identification & RNA-seq analysis between teosintes and maize
